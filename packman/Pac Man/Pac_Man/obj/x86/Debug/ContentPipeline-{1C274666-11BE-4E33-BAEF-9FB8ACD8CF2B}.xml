@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>0.png</Source>
+      <Name>0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\0.xnb</Output>
+      <Time>2025-01-11T21:26:57.016054-06:00</Time>
+    </Item>
+    <Item>
+      <Source>1.png</Source>
+      <Name>1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\1.xnb</Output>
+      <Time>2025-01-11T21:26:57.0211194-06:00</Time>
+    </Item>
+    <Item>
+      <Source>2.png</Source>
+      <Name>2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\2.xnb</Output>
+      <Time>2025-01-11T21:26:57.0367803-06:00</Time>
+    </Item>
+    <Item>
+      <Source>3.png</Source>
+      <Name>3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\3.xnb</Output>
+      <Time>2025-01-11T21:26:57.0417759-06:00</Time>
+    </Item>
+    <Item>
+      <Source>4.png</Source>
+      <Name>4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\4.xnb</Output>
+      <Time>2025-01-11T21:26:57.0468426-06:00</Time>
+    </Item>
+    <Item>
+      <Source>5.png</Source>
+      <Name>5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\5.xnb</Output>
+      <Time>2025-01-11T21:26:57.0517873-06:00</Time>
+    </Item>
+    <Item>
+      <Source>6.png</Source>
+      <Name>6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\6.xnb</Output>
+      <Time>2025-01-11T21:26:57.0567758-06:00</Time>
+    </Item>
+    <Item>
+      <Source>7.png</Source>
+      <Name>7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\7.xnb</Output>
+      <Time>2025-01-11T21:26:57.0617795-06:00</Time>
+    </Item>
+    <Item>
+      <Source>8.png</Source>
+      <Name>8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\8.xnb</Output>
+      <Time>2025-01-11T21:26:57.0667758-06:00</Time>
+    </Item>
+    <Item>
+      <Source>10.png</Source>
+      <Name>10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\10.xnb</Output>
+      <Time>2025-01-11T21:26:57.0260863-06:00</Time>
+    </Item>
+    <Item>
+      <Source>11.png</Source>
+      <Name>11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\11.xnb</Output>
+      <Time>2025-01-11T21:26:57.0317235-06:00</Time>
+    </Item>
+    <Item>
+      <Source>9.png</Source>
+      <Name>9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\9.xnb</Output>
+      <Time>2025-01-11T21:26:57.0717469-06:00</Time>
+    </Item>
+    <Item>
+      <Source>(3.10.2)White Square.png</Source>
+      <Name>(3.10.2)White Square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\(3.10.2)White Square.xnb</Output>
+      <Time>2025-01-11T21:26:57.0110855-06:00</Time>
+    </Item>
+    <Item>
+      <Source>dot.png</Source>
+      <Name>dot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\dot.xnb</Output>
+      <Time>2025-01-11T21:26:57.0917431-06:00</Time>
+    </Item>
+    <Item>
+      <Source>blinky.png</Source>
+      <Name>blinky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\blinky.xnb</Output>
+      <Time>2025-01-11T21:26:57.0767469-06:00</Time>
+    </Item>
+    <Item>
+      <Source>blue_ghost.png</Source>
+      <Name>blue_ghost</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\blue_ghost.xnb</Output>
+      <Time>2025-01-11T21:26:57.0817433-06:00</Time>
+    </Item>
+    <Item>
+      <Source>clyde.png</Source>
+      <Name>clyde</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\clyde.xnb</Output>
+      <Time>2025-01-11T21:26:57.0867472-06:00</Time>
+    </Item>
+    <Item>
+      <Source>inky.png</Source>
+      <Name>inky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\inky.xnb</Output>
+      <Time>2025-01-11T21:26:57.096743-06:00</Time>
+    </Item>
+    <Item>
+      <Source>pinky.png</Source>
+      <Name>pinky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\pinky.xnb</Output>
+      <Time>2025-01-11T21:26:57.1173044-06:00</Time>
+    </Item>
+    <Item>
+      <Source>pac man life counter.png</Source>
+      <Name>pac man life counter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\pac man life counter.xnb</Output>
+      <Time>2025-01-11T21:26:57.1046795-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2025-01-11T21:26:57.1213462-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2025-01-11T21:26:57.128345-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1C274666-11BE-4E33-BAEF-9FB8ACD8CF2B}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_ManContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\shahi\Downloads\Pac Man (1)\Pac Man\Pac Man\Pac Man\Pac Man\Pac Man\Pac_Man\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2024-08-30T22:33:04.1251565-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
