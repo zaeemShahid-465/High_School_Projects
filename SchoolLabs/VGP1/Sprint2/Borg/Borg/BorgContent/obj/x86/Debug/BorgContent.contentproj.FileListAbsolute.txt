@@ -1,0 +1,4 @@
+C:\Users\252486\Desktop\Sprint 2\Borg\Borg\BorgContent\obj\x86\Debug\BorgContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 2\Borg\Borg\BorgContent\obj\x86\Debug\BorgContent.contentproj.CoreCompileInputs.cache
+C:\Users\shahi\Desktop\Sprint 2\Borg\Borg\Borg\BorgContent\obj\x86\Debug\BorgContent.contentproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Sprint 2\Borg\Borg\Borg\BorgContent\obj\x86\Debug\BorgContent.contentproj.CoreCompileInputs.cache

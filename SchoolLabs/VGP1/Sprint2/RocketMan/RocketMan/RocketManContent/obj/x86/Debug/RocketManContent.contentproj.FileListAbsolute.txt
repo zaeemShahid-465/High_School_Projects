@@ -1,0 +1,4 @@
+C:\Users\252486\Desktop\Sprint 2\RocketMan\RocketMan\RocketManContent\obj\x86\Debug\RocketManContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 2\RocketMan\RocketMan\RocketManContent\obj\x86\Debug\RocketManContent.contentproj.CoreCompileInputs.cache
+C:\Users\shahi\Desktop\Sprint 2\RocketMan\RocketMan\RocketMan\RocketManContent\obj\x86\Debug\RocketManContent.contentproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Sprint 2\RocketMan\RocketMan\RocketMan\RocketManContent\obj\x86\Debug\RocketManContent.contentproj.CoreCompileInputs.cache

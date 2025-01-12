@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMap", "MiniMap\MiniMap\MiniMap.csproj", "{C237EB54-9200-487B-9304-F359AD43CD74}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MiniMapContent", "MiniMap\MiniMapContent\MiniMapContent.contentproj", "{411A4C44-A6C6-4DBE-AD60-28C901CB9B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C237EB54-9200-487B-9304-F359AD43CD74}.Debug|x86.ActiveCfg = Debug|x86
+		{C237EB54-9200-487B-9304-F359AD43CD74}.Debug|x86.Build.0 = Debug|x86
+		{C237EB54-9200-487B-9304-F359AD43CD74}.Release|x86.ActiveCfg = Release|x86
+		{C237EB54-9200-487B-9304-F359AD43CD74}.Release|x86.Build.0 = Release|x86
+		{411A4C44-A6C6-4DBE-AD60-28C901CB9B1B}.Debug|x86.ActiveCfg = Debug|x86
+		{411A4C44-A6C6-4DBE-AD60-28C901CB9B1B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22730007-02B4-4CBD-A8F1-1755CD830C22}
+	EndGlobalSection
+EndGlobal

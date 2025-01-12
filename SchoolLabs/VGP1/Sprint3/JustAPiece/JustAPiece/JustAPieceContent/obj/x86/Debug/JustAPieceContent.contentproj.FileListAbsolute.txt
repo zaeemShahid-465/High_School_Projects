@@ -1,0 +1,6 @@
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\JustAPiece\JustAPiece\JustAPieceContent\obj\x86\Debug\JustAPieceContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\JustAPiece\JustAPiece\JustAPieceContent\obj\x86\Debug\JustAPieceContent.contentproj.CoreCompileInputs.cache
+C:\Users\shahi\OneDrive\Desktop\Sprint 3 (Geometry)\JustAPiece\JustAPiece\JustAPiece\JustAPieceContent\obj\x86\Debug\JustAPieceContent.contentproj.AssemblyReference.cache
+C:\Users\shahi\OneDrive\Desktop\Sprint 3 (Geometry)\JustAPiece\JustAPiece\JustAPiece\JustAPieceContent\obj\x86\Debug\JustAPieceContent.contentproj.CoreCompileInputs.cache
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\JustAPiece\JustAPiece\JustAPiece\JustAPiece\JustAPieceContent\obj\x86\Debug\JustAPieceContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\JustAPiece\JustAPiece\JustAPiece\JustAPiece\JustAPieceContent\obj\x86\Debug\JustAPieceContent.contentproj.CoreCompileInputs.cache

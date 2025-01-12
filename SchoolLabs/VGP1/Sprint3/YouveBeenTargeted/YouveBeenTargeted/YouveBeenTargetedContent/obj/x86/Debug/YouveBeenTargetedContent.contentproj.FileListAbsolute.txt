@@ -1,0 +1,2 @@
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\YouveBeenTargeted\YouveBeenTargeted\YouveBeenTargetedContent\obj\x86\Debug\YouveBeenTargetedContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\YouveBeenTargeted\YouveBeenTargeted\YouveBeenTargetedContent\obj\x86\Debug\YouveBeenTargetedContent.contentproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Content\IMG_1097.xnb
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\SchoolHomeSchool.exe
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\SchoolHomeSchool.pdb
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\obj\x86\Debug\SchoolHomeSchool.csproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\obj\x86\Debug\SchoolHomeSchool.csproj.CoreCompileInputs.cache
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\obj\x86\Debug\SchoolHomeSchool.csproj.CopyComplete
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\obj\x86\Debug\SchoolHomeSchool.exe
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\obj\x86\Debug\SchoolHomeSchool.pdb
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Content\outline.xnb
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Content\home.xnb
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Content\School Shoot 2 (1).xnb

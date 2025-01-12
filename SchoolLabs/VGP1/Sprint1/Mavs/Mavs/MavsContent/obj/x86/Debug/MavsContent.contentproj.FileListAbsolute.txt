@@ -1,0 +1,4 @@
+C:\Users\shahi\Desktop\Sprint 1\Mavs\Mavs\MavsContent\obj\x86\Debug\MavsContent.contentproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Sprint 1\Mavs\Mavs\MavsContent\obj\x86\Debug\MavsContent.contentproj.CoreCompileInputs.cache
+C:\Users\252486\Desktop\Sprint 1\Mavs\Mavs\Mavs\MavsContent\obj\x86\Debug\MavsContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 1\Mavs\Mavs\Mavs\MavsContent\obj\x86\Debug\MavsContent.contentproj.CoreCompileInputs.cache

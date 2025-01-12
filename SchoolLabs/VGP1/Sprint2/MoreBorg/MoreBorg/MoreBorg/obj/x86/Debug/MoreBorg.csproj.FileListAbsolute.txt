@@ -1,0 +1,72 @@
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.csproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.csproj.CoreCompileInputs.cache
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\borg-removebg-preview.xnb
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\outline.xnb
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\torpedo-removebg-preview.xnb
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\turret-removebg-preview.xnb
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\MoreBorg.exe
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\MoreBorg.pdb
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.csproj.CopyComplete
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.exe
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.pdb
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\bomb-removebg-preview.xnb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\borg-removebg-preview.xnb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\outline.xnb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\torpedo-removebg-preview.xnb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\turret-removebg-preview.xnb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\bomb-removebg-preview.xnb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\MoreBorg.exe
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\MoreBorg.pdb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.csproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.csproj.CoreCompileInputs.cache
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.csproj.CopyComplete
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.exe
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.pdb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\borg-removebg-preview.xnb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\outline.xnb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\torpedo-removebg-preview.xnb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\turret-removebg-preview.xnb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\bomb-removebg-preview.xnb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\MoreBorg.exe
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\MoreBorg.pdb
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.csproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.csproj.CoreCompileInputs.cache
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.csproj.CopyComplete
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.exe
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.pdb

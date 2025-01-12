@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackDrop", "BackDrop\BackDrop\BackDrop.csproj", "{11FA7636-75AD-4200-B5A5-246637095781}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BackDropContent", "BackDrop\BackDropContent\BackDropContent.contentproj", "{46D3FDE2-1D3F-4E0F-9F52-0ACD3C7D20FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11FA7636-75AD-4200-B5A5-246637095781}.Debug|x86.ActiveCfg = Debug|x86
+		{11FA7636-75AD-4200-B5A5-246637095781}.Debug|x86.Build.0 = Debug|x86
+		{11FA7636-75AD-4200-B5A5-246637095781}.Release|x86.ActiveCfg = Release|x86
+		{11FA7636-75AD-4200-B5A5-246637095781}.Release|x86.Build.0 = Release|x86
+		{46D3FDE2-1D3F-4E0F-9F52-0ACD3C7D20FB}.Debug|x86.ActiveCfg = Debug|x86
+		{46D3FDE2-1D3F-4E0F-9F52-0ACD3C7D20FB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76184FB9-01D2-4952-981B-EAC7F0BFAC16}
+	EndGlobalSection
+EndGlobal

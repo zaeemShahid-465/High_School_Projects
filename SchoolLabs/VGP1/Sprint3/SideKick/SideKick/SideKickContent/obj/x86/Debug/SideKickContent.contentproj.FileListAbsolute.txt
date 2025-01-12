@@ -1,0 +1,2 @@
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\SideKick\SideKick\SideKickContent\obj\x86\Debug\SideKickContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\SideKick\SideKick\SideKickContent\obj\x86\Debug\SideKickContent.contentproj.CoreCompileInputs.cache

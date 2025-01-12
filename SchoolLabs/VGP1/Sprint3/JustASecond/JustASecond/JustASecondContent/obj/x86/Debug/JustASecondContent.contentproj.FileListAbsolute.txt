@@ -1,0 +1,4 @@
+C:\Users\shahi\OneDrive\Desktop\Sprint 3 (Geometry)\JustASecond\JustASecond\JustASecondContent\obj\x86\Debug\JustASecondContent.contentproj.AssemblyReference.cache
+C:\Users\shahi\OneDrive\Desktop\Sprint 3 (Geometry)\JustASecond\JustASecond\JustASecondContent\obj\x86\Debug\JustASecondContent.contentproj.CoreCompileInputs.cache
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\JustASecond\JustASecond\JustASecond\JustASecondContent\obj\x86\Debug\JustASecondContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\JustASecond\JustASecond\JustASecond\JustASecondContent\obj\x86\Debug\JustASecondContent.contentproj.CoreCompileInputs.cache

@@ -1,0 +1,20 @@
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\bin\x86\Debug\Content\Hard Place.xnb
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\bin\x86\Debug\Content\Rock.xnb
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\bin\x86\Debug\RockAndHardPlace.exe
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\bin\x86\Debug\RockAndHardPlace.pdb
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\obj\x86\Debug\RockAndHardPlace.csproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\obj\x86\Debug\RockAndHardPlace.csproj.CoreCompileInputs.cache
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\obj\x86\Debug\RockAndHardPlace.csproj.CopyComplete
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\obj\x86\Debug\RockAndHardPlace.exe
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlace\obj\x86\Debug\RockAndHardPlace.pdb

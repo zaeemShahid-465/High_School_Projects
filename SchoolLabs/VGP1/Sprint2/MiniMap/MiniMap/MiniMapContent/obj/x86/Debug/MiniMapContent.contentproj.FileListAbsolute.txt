@@ -1,0 +1,2 @@
+C:\Users\252486\Desktop\Sprint 2\MiniMap\MiniMap\MiniMapContent\obj\x86\Debug\MiniMapContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 2\MiniMap\MiniMap\MiniMapContent\obj\x86\Debug\MiniMapContent.contentproj.CoreCompileInputs.cache

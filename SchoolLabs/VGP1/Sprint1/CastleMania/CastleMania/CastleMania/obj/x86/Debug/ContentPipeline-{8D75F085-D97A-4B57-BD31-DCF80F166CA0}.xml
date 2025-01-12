@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>castlebg.png</Source>
+      <Name>castlebg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\castlebg.xnb</Output>
+      <Time>2024-08-30T22:39:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>guard1-removebg-preview.png</Source>
+      <Name>guard1-removebg-preview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\guard1-removebg-preview.xnb</Output>
+      <Time>2024-08-30T22:39:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>archer-removebg-preview.png</Source>
+      <Name>archer-removebg-preview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\archer-removebg-preview.xnb</Output>
+      <Time>2024-08-31T12:00:31-05:00</Time>
+    </Item>
+    <Item>
+      <Source>arrow-removebg-preview.png</Source>
+      <Name>arrow-removebg-preview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\arrow-removebg-preview.xnb</Output>
+      <Time>2024-08-31T12:06:15-05:00</Time>
+    </Item>
+    <Item>
+      <Source>target-removebg-preview.png</Source>
+      <Name>target-removebg-preview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\target-removebg-preview.xnb</Output>
+      <Time>2024-08-31T12:10:43-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dragon-removebg-preview.png</Source>
+      <Name>dragon-removebg-preview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\dragon-removebg-preview.xnb</Output>
+      <Time>2024-08-31T21:46:59-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ghost-removebg-preview.png</Source>
+      <Name>ghost-removebg-preview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\ghost-removebg-preview.xnb</Output>
+      <Time>2024-08-31T21:56:41-05:00</Time>
+    </Item>
+    <Item>
+      <Source>princess.jpg</Source>
+      <Name>princess</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\princess.xnb</Output>
+      <Time>2024-09-01T19:04:29-05:00</Time>
+    </Item>
+    <Item>
+      <Source>princess-removebg-preview.png</Source>
+      <Name>princess-removebg-preview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\princess-removebg-preview.xnb</Output>
+      <Time>2024-09-01T19:04:43-05:00</Time>
+    </Item>
+    <Item>
+      <Source>transparent.jpg</Source>
+      <Name>transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\transparent.xnb</Output>
+      <Time>2024-09-03T13:02:45-05:00</Time>
+    </Item>
+    <Item>
+      <Source>herald.jpg</Source>
+      <Name>herald</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\herald.xnb</Output>
+      <Time>2024-09-03T15:34:44.3531211-05:00</Time>
+    </Item>
+    <Item>
+      <Source>herald-removebg-preview.png</Source>
+      <Name>herald-removebg-preview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\herald-removebg-preview.xnb</Output>
+      <Time>2024-09-03T15:39:32.3957192-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2024-09-03T23:21:06.4302668-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{8D75F085-D97A-4B57-BD31-DCF80F166CA0}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleManiaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2024-08-15T15:19:20.2465102-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,8 @@
+Content\tng_phaser3_clean.xnb
+Content\autodestructsequencearmed_ep.xnb
+Content\tng_replicator.xnb
+Content\tos_phaser_ricochet.xnb
+Content\tos_red_alert_3.xnb
+Content\alert10.xnb
+Content\trek1.xnb
+Content\SpriteFont1.xnb

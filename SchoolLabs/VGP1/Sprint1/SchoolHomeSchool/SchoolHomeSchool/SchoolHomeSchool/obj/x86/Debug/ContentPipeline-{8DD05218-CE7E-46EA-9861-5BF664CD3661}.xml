@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>IMG_1097.png</Source>
+      <Name>IMG_1097</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Content\IMG_1097.xnb</Output>
+      <Time>2024-08-22T22:13:26.0554871-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2024-08-22T22:17:42.6090495-05:00</Time>
+    </Item>
+    <Item>
+      <Source>outline.png</Source>
+      <Name>outline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Content\outline.xnb</Output>
+      <Time>2024-08-25T21:59:18.6579646-05:00</Time>
+    </Item>
+    <Item>
+      <Source>home.png</Source>
+      <Name>home</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Content\home.xnb</Output>
+      <Time>2024-08-25T22:07:36.8529344-05:00</Time>
+    </Item>
+    <Item>
+      <Source>School Shoot 2 (1).png</Source>
+      <Name>School Shoot 2 (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Content\School Shoot 2 (1).xnb</Output>
+      <Time>2024-08-25T22:19:19.3581292-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{8DD05218-CE7E-46EA-9861-5BF664CD3661}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchoolContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchool\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2024-08-15T15:19:20.2465102-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

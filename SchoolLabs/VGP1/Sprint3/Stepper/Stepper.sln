@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepper", "Stepper\Stepper\Stepper.csproj", "{26C90310-6ED2-4BEC-A4E4-E35E56FDCF40}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "StepperContent", "Stepper\StepperContent\StepperContent.contentproj", "{D6A1DECB-8435-48A8-8966-C0F96373C5ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26C90310-6ED2-4BEC-A4E4-E35E56FDCF40}.Debug|x86.ActiveCfg = Debug|x86
+		{26C90310-6ED2-4BEC-A4E4-E35E56FDCF40}.Debug|x86.Build.0 = Debug|x86
+		{26C90310-6ED2-4BEC-A4E4-E35E56FDCF40}.Release|x86.ActiveCfg = Release|x86
+		{26C90310-6ED2-4BEC-A4E4-E35E56FDCF40}.Release|x86.Build.0 = Release|x86
+		{D6A1DECB-8435-48A8-8966-C0F96373C5ED}.Debug|x86.ActiveCfg = Debug|x86
+		{D6A1DECB-8435-48A8-8966-C0F96373C5ED}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE8E0ABE-9CF7-44E6-B6F1-8D8D333DD83F}
+	EndGlobalSection
+EndGlobal

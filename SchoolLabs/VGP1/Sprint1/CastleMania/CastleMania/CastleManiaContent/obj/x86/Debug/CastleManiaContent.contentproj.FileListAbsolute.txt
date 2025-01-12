@@ -1,0 +1,6 @@
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleManiaContent\obj\x86\Debug\CastleManiaContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleManiaContent\obj\x86\Debug\CastleManiaContent.contentproj.CoreCompileInputs.cache
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleManiaContent\obj\x86\Debug\CastleManiaContent.contentproj.AssemblyReference.cache
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleManiaContent\obj\x86\Debug\CastleManiaContent.contentproj.CoreCompileInputs.cache
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleManiaContent\obj\x86\Debug\CastleManiaContent.contentproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleManiaContent\obj\x86\Debug\CastleManiaContent.contentproj.CoreCompileInputs.cache

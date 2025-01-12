@@ -1,0 +1,6 @@
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorgContent\obj\x86\Debug\MoreBorgContent.contentproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorgContent\obj\x86\Debug\MoreBorgContent.contentproj.CoreCompileInputs.cache
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorgContent\obj\x86\Debug\MoreBorgContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 2\MoreBorg\MoreBorg\MoreBorg\MoreBorgContent\obj\x86\Debug\MoreBorgContent.contentproj.CoreCompileInputs.cache
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorgContent\obj\x86\Debug\MoreBorgContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 2\MoreBorg (1)\MoreBorg\MoreBorg\MoreBorg\MoreBorgContent\obj\x86\Debug\MoreBorgContent.contentproj.CoreCompileInputs.cache

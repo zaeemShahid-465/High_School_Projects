@@ -1,0 +1,2 @@
+C:\Users\shahi\Desktop\Sprint 1\Jake\Jake\JakeContent\obj\x86\Debug\JakeContent.contentproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Sprint 1\Jake\Jake\JakeContent\obj\x86\Debug\JakeContent.contentproj.CoreCompileInputs.cache

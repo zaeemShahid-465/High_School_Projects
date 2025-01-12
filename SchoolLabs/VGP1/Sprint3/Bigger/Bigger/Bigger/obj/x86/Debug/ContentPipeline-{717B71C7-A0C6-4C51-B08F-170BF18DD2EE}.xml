@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{717B71C7-A0C6-4C51-B08F-170BF18DD2EE}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\252486\Desktop\Sprint 3 (Geometry)\Bigger\Bigger\BiggerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\252486\Desktop\Sprint 3 (Geometry)\Bigger\Bigger\Bigger\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\252486\Desktop\Sprint 3 (Geometry)\Bigger\Bigger\Bigger\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\252486\Desktop\Sprint 3 (Geometry)\Bigger\Bigger\Bigger\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2024-08-13T18:01:03.0186546-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

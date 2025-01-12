@@ -1,0 +1,4 @@
+C:\Users\shahi\Desktop\Sprint 2\BeamMeUp!\BeamMeUp!\BeamMeUp_Content\obj\x86\Debug\BeamMeUp_Content.contentproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Sprint 2\BeamMeUp!\BeamMeUp!\BeamMeUp_Content\obj\x86\Debug\BeamMeUp_Content.contentproj.CoreCompileInputs.cache
+C:\Users\252486\Desktop\Sprint 2\BeamMeUp!\BeamMeUp!\BeamMeUp!\BeamMeUp_Content\obj\x86\Debug\BeamMeUp_Content.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 2\BeamMeUp!\BeamMeUp!\BeamMeUp!\BeamMeUp_Content\obj\x86\Debug\BeamMeUp_Content.contentproj.CoreCompileInputs.cache

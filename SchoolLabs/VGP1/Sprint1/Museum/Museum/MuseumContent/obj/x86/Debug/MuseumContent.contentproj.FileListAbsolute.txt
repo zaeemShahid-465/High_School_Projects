@@ -1,0 +1,4 @@
+C:\Users\252486\Desktop\Museum\Museum\MuseumContent\obj\x86\Debug\MuseumContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Museum\Museum\MuseumContent\obj\x86\Debug\MuseumContent.contentproj.CoreCompileInputs.cache
+C:\Users\shahi\Downloads\Museum\Museum\MuseumContent\obj\x86\Debug\MuseumContent.contentproj.AssemblyReference.cache
+C:\Users\shahi\Downloads\Museum\Museum\MuseumContent\obj\x86\Debug\MuseumContent.contentproj.CoreCompileInputs.cache

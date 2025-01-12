@@ -1,0 +1,4 @@
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorgContent\obj\x86\Debug\MaxBorgContent.contentproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorgContent\obj\x86\Debug\MaxBorgContent.contentproj.CoreCompileInputs.cache
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorgContent\obj\x86\Debug\MaxBorgContent.contentproj.AssemblyReference.cache
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorgContent\obj\x86\Debug\MaxBorgContent.contentproj.CoreCompileInputs.cache

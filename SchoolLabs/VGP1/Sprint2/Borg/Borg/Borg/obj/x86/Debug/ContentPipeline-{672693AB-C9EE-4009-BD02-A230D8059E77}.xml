@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>turret-removebg-preview.png</Source>
+      <Name>turret-removebg-preview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 2\Borg\Borg\Borg\Borg\bin\x86\Debug\Content\turret-removebg-preview.xnb</Output>
+      <Time>2024-09-25T10:58:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tube-removebg-preview.png</Source>
+      <Name>tube-removebg-preview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 2\Borg\Borg\Borg\Borg\bin\x86\Debug\Content\tube-removebg-preview.xnb</Output>
+      <Time>2024-09-25T11:13:29-05:00</Time>
+    </Item>
+    <Item>
+      <Source>outline.png</Source>
+      <Name>outline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 2\Borg\Borg\Borg\Borg\bin\x86\Debug\Content\outline.xnb</Output>
+      <Time>2024-09-25T11:31:51-05:00</Time>
+    </Item>
+    <Item>
+      <Source>torpedo-removebg-preview.png</Source>
+      <Name>torpedo-removebg-preview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 2\Borg\Borg\Borg\Borg\bin\x86\Debug\Content\torpedo-removebg-preview.xnb</Output>
+      <Time>2024-09-25T12:13:13-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 2\Borg\Borg\Borg\Borg\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2024-09-25T19:43:04.9308221-05:00</Time>
+    </Item>
+    <Item>
+      <Source>borg-removebg-preview.png</Source>
+      <Name>borg-removebg-preview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Desktop\Sprint 2\Borg\Borg\Borg\Borg\bin\x86\Debug\Content\borg-removebg-preview.xnb</Output>
+      <Time>2024-09-26T17:54:27.2870955-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{672693AB-C9EE-4009-BD02-A230D8059E77}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\shahi\Desktop\Sprint 2\Borg\Borg\Borg\BorgContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\shahi\Desktop\Sprint 2\Borg\Borg\Borg\Borg\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\shahi\Desktop\Sprint 2\Borg\Borg\Borg\Borg\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\shahi\Desktop\Sprint 2\Borg\Borg\Borg\Borg\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2024-08-15T15:19:20.2465102-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

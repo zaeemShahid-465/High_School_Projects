@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickAPeck", "PickAPeck\PickAPeck\PickAPeck.csproj", "{7C395797-A524-46A5-8C0A-41669BD013B5}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PickAPeckContent", "PickAPeck\PickAPeckContent\PickAPeckContent.contentproj", "{930F7842-F76F-46B9-A3D5-674765CDE2E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C395797-A524-46A5-8C0A-41669BD013B5}.Debug|x86.ActiveCfg = Debug|x86
+		{7C395797-A524-46A5-8C0A-41669BD013B5}.Debug|x86.Build.0 = Debug|x86
+		{7C395797-A524-46A5-8C0A-41669BD013B5}.Release|x86.ActiveCfg = Release|x86
+		{7C395797-A524-46A5-8C0A-41669BD013B5}.Release|x86.Build.0 = Release|x86
+		{930F7842-F76F-46B9-A3D5-674765CDE2E2}.Debug|x86.ActiveCfg = Debug|x86
+		{930F7842-F76F-46B9-A3D5-674765CDE2E2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79934466-4103-43AB-B67A-BAFDE7534AA5}
+	EndGlobalSection
+EndGlobal

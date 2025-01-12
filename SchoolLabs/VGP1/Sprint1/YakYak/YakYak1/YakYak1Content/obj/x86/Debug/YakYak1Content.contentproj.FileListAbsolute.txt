@@ -1,0 +1,2 @@
+C:\Users\shahi\Desktop\YakYak1\YakYak1\YakYak1Content\obj\x86\Debug\YakYak1Content.contentproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\YakYak1\YakYak1\YakYak1Content\obj\x86\Debug\YakYak1Content.contentproj.CoreCompileInputs.cache

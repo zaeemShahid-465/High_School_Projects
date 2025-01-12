@@ -1,0 +1,2 @@
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\HuffnPuff\HuffnPuff\HuffnPuffContent\obj\x86\Debug\HuffnPuffContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\HuffnPuff\HuffnPuff\HuffnPuffContent\obj\x86\Debug\HuffnPuffContent.contentproj.CoreCompileInputs.cache

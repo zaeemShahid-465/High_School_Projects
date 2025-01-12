@@ -1,0 +1,2 @@
+C:\Users\shahi\Desktop\Sprint 1\SeeJakeRun\SeeJakeRun\SeeJakeRunContent\obj\x86\Debug\SeeJakeRunContent.contentproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Sprint 1\SeeJakeRun\SeeJakeRun\SeeJakeRunContent\obj\x86\Debug\SeeJakeRunContent.contentproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\252486\Desktop\Sprint 2\Catz\Catz\CatzContent\obj\x86\Debug\CatzContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 2\Catz\Catz\CatzContent\obj\x86\Debug\CatzContent.contentproj.CoreCompileInputs.cache

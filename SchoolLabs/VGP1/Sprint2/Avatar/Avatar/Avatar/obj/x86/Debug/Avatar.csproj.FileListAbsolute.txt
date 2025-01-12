@@ -1,0 +1,25 @@
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\glasses.xnb
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\nurse.xnb
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\bishop.xnb
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\bearded man.xnb
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\cop.xnb
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Avatar.exe
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Avatar.pdb
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\obj\x86\Debug\Avatar.csproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\obj\x86\Debug\Avatar.csproj.CoreCompileInputs.cache
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\obj\x86\Debug\Avatar.csproj.CopyComplete
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\obj\x86\Debug\Avatar.exe
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\obj\x86\Debug\Avatar.pdb
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\girl.xnb
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\outline.xnb

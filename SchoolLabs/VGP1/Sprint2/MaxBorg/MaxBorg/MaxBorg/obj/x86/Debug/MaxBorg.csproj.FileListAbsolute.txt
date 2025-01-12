@@ -1,0 +1,53 @@
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\bomb-removebg-preview.xnb
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\borg-removebg-preview.xnb
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\outline.xnb
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\torpedo-removebg-preview.xnb
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\turret-removebg-preview.xnb
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\MaxBorg.exe
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\MaxBorg.pdb
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.csproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.csproj.CoreCompileInputs.cache
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.csproj.CopyComplete
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.exe
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.pdb
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tos_phaser_ricochet.xnb
+C:\Users\shahi\Desktop\Sprint 2\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tng_torpedo_clean.xnb
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\bomb-removebg-preview.xnb
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\borg-removebg-preview.xnb
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\outline.xnb
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\torpedo-removebg-preview.xnb
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\turret-removebg-preview.xnb
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tos_phaser_ricochet.xnb
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tng_torpedo_clean.xnb
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\MaxBorg.exe
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\MaxBorg.pdb
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.csproj.AssemblyReference.cache
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.csproj.CoreCompileInputs.cache
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.csproj.CopyComplete
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.exe
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.pdb
+C:\Users\shahi\OneDrive\Desktop\MaxBorg\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\images-removebg-preview.xnb

@@ -1,0 +1,2 @@
+C:\Users\252486\Desktop\BackDrop\BackDrop\BackDropContent\obj\x86\Debug\BackDropContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\BackDrop\BackDrop\BackDropContent\obj\x86\Debug\BackDropContent.contentproj.CoreCompileInputs.cache

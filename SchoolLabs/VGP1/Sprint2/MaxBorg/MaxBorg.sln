@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxBorg", "MaxBorg\MaxBorg\MaxBorg.csproj", "{98D20CE5-B337-43DE-943E-406986DB547F}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MaxBorgContent", "MaxBorg\MaxBorgContent\MaxBorgContent.contentproj", "{3207054B-A70D-416F-A593-C788B20D0DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D20CE5-B337-43DE-943E-406986DB547F}.Debug|x86.ActiveCfg = Debug|x86
+		{98D20CE5-B337-43DE-943E-406986DB547F}.Debug|x86.Build.0 = Debug|x86
+		{98D20CE5-B337-43DE-943E-406986DB547F}.Release|x86.ActiveCfg = Release|x86
+		{98D20CE5-B337-43DE-943E-406986DB547F}.Release|x86.Build.0 = Release|x86
+		{3207054B-A70D-416F-A593-C788B20D0DF3}.Debug|x86.ActiveCfg = Debug|x86
+		{3207054B-A70D-416F-A593-C788B20D0DF3}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45BF95E3-85C1-4F3E-9442-7980953BB9BC}
+	EndGlobalSection
+EndGlobal

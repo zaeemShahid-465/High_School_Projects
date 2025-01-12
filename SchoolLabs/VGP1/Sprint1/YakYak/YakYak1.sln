@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YakYak1", "YakYak1\YakYak1\YakYak1.csproj", "{F456FC1F-CB61-4EED-8BFC-8494CF61DCC8}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "YakYak1Content", "YakYak1\YakYak1Content\YakYak1Content.contentproj", "{FB7BDD70-F101-482B-9C72-C319382A31CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F456FC1F-CB61-4EED-8BFC-8494CF61DCC8}.Debug|x86.ActiveCfg = Debug|x86
+		{F456FC1F-CB61-4EED-8BFC-8494CF61DCC8}.Debug|x86.Build.0 = Debug|x86
+		{F456FC1F-CB61-4EED-8BFC-8494CF61DCC8}.Release|x86.ActiveCfg = Release|x86
+		{F456FC1F-CB61-4EED-8BFC-8494CF61DCC8}.Release|x86.Build.0 = Release|x86
+		{FB7BDD70-F101-482B-9C72-C319382A31CF}.Debug|x86.ActiveCfg = Debug|x86
+		{FB7BDD70-F101-482B-9C72-C319382A31CF}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D480117-01CD-4267-BF5E-86A720A6A2F3}
+	EndGlobalSection
+EndGlobal

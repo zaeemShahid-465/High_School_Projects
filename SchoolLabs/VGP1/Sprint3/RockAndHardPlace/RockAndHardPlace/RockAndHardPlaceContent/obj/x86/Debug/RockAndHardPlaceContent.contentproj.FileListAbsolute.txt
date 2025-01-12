@@ -1,0 +1,2 @@
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlaceContent\obj\x86\Debug\RockAndHardPlaceContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 3 (Geometry)\RockAndHardPlace\RockAndHardPlace\RockAndHardPlaceContent\obj\x86\Debug\RockAndHardPlaceContent.contentproj.CoreCompileInputs.cache

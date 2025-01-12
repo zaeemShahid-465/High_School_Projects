@@ -1,0 +1,79 @@
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\castlebg.xnb
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\obj\x86\Debug\CastleMania.csproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\obj\x86\Debug\CastleMania.csproj.CoreCompileInputs.cache
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\obj\x86\Debug\CastleMania.csproj.CopyComplete
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\obj\x86\Debug\CastleMania.exe
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\obj\x86\Debug\CastleMania.pdb
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\bin\x86\Debug\CastleMania.exe
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\bin\x86\Debug\CastleMania.pdb
+C:\Users\252486\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\guard1-removebg-preview.xnb
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\castlebg.xnb
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\guard1-removebg-preview.xnb
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\CastleMania.exe
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\CastleMania.pdb
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\obj\x86\Debug\CastleMania.csproj.AssemblyReference.cache
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\obj\x86\Debug\CastleMania.csproj.CoreCompileInputs.cache
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\obj\x86\Debug\CastleMania.csproj.CopyComplete
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\obj\x86\Debug\CastleMania.exe
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\obj\x86\Debug\CastleMania.pdb
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\archer-removebg-preview.xnb
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\arrow-removebg-preview.xnb
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\target-removebg-preview.xnb
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\dragon-removebg-preview.xnb
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\ghost-removebg-preview.xnb
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\princess.xnb
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\princess-removebg-preview.xnb
+C:\Users\shahi\OneDrive\Desktop\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\transparent.xnb
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\castlebg.xnb
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\guard1-removebg-preview.xnb
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\archer-removebg-preview.xnb
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\arrow-removebg-preview.xnb
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\target-removebg-preview.xnb
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\dragon-removebg-preview.xnb
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\ghost-removebg-preview.xnb
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\princess.xnb
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\princess-removebg-preview.xnb
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\transparent.xnb
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\CastleMania.exe
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\CastleMania.pdb
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\obj\x86\Debug\CastleMania.csproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\obj\x86\Debug\CastleMania.csproj.CoreCompileInputs.cache
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\obj\x86\Debug\CastleMania.csproj.CopyComplete
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\obj\x86\Debug\CastleMania.exe
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\obj\x86\Debug\CastleMania.pdb
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\herald.xnb
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\herald-removebg-preview.xnb
+C:\Users\shahi\Desktop\Sprint 1\CastleMania\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\SpriteFont1.xnb

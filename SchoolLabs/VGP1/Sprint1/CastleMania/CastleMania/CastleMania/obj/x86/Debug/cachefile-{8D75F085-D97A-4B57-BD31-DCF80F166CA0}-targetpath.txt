@@ -1,0 +1,13 @@
+Content\castlebg.xnb
+Content\guard1-removebg-preview.xnb
+Content\archer-removebg-preview.xnb
+Content\arrow-removebg-preview.xnb
+Content\target-removebg-preview.xnb
+Content\dragon-removebg-preview.xnb
+Content\ghost-removebg-preview.xnb
+Content\princess.xnb
+Content\princess-removebg-preview.xnb
+Content\transparent.xnb
+Content\herald.xnb
+Content\herald-removebg-preview.xnb
+Content\SpriteFont1.xnb

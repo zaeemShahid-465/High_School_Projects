@@ -1,0 +1,2 @@
+C:\Users\shahi\Desktop\Sprint 2\HowMuch\HowMuch\HowMuchContent\obj\x86\Debug\HowMuchContent.contentproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Sprint 2\HowMuch\HowMuch\HowMuchContent\obj\x86\Debug\HowMuchContent.contentproj.CoreCompileInputs.cache

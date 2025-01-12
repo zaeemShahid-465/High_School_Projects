@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreBorg", "MoreBorg\MoreBorg\MoreBorg.csproj", "{DD65CD37-4BFB-4208-9961-2F873AD8DAC8}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MoreBorgContent", "MoreBorg\MoreBorgContent\MoreBorgContent.contentproj", "{035A70E6-9DDA-40C1-9D86-7C6D5213D8ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD65CD37-4BFB-4208-9961-2F873AD8DAC8}.Debug|x86.ActiveCfg = Debug|x86
+		{DD65CD37-4BFB-4208-9961-2F873AD8DAC8}.Debug|x86.Build.0 = Debug|x86
+		{DD65CD37-4BFB-4208-9961-2F873AD8DAC8}.Release|x86.ActiveCfg = Release|x86
+		{DD65CD37-4BFB-4208-9961-2F873AD8DAC8}.Release|x86.Build.0 = Release|x86
+		{035A70E6-9DDA-40C1-9D86-7C6D5213D8ED}.Debug|x86.ActiveCfg = Debug|x86
+		{035A70E6-9DDA-40C1-9D86-7C6D5213D8ED}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA8C8B3B-05CF-4CAE-976D-EED2C6EB05DC}
+	EndGlobalSection
+EndGlobal

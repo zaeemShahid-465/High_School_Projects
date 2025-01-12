@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustASecond", "JustASecond\JustASecond\JustASecond.csproj", "{ED014079-E18B-4FB4-9A03-05DEC38546FB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "JustASecondContent", "JustASecond\JustASecondContent\JustASecondContent.contentproj", "{0FFAAE45-5031-415F-B385-4E29F6ABF413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED014079-E18B-4FB4-9A03-05DEC38546FB}.Debug|x86.ActiveCfg = Debug|x86
+		{ED014079-E18B-4FB4-9A03-05DEC38546FB}.Debug|x86.Build.0 = Debug|x86
+		{ED014079-E18B-4FB4-9A03-05DEC38546FB}.Release|x86.ActiveCfg = Release|x86
+		{ED014079-E18B-4FB4-9A03-05DEC38546FB}.Release|x86.Build.0 = Release|x86
+		{0FFAAE45-5031-415F-B385-4E29F6ABF413}.Debug|x86.ActiveCfg = Debug|x86
+		{0FFAAE45-5031-415F-B385-4E29F6ABF413}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {968621E3-DA8E-44BD-84B0-AAEE7D775664}
+	EndGlobalSection
+EndGlobal

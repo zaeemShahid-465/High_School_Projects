@@ -1,0 +1,2 @@
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchoolContent\obj\x86\Debug\SchoolHomeSchoolContent.contentproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Sprint 1\SchoolHomeSchool\SchoolHomeSchool\SchoolHomeSchoolContent\obj\x86\Debug\SchoolHomeSchoolContent.contentproj.CoreCompileInputs.cache

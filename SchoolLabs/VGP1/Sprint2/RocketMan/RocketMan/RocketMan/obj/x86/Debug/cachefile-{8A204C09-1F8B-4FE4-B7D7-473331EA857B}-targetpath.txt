@@ -1,0 +1,2 @@
+Content\spaceship-removebg-preview.xnb
+Content\SpriteFont1.xnb

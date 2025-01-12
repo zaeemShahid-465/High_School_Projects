@@ -1,0 +1,2 @@
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\AvatarContent\obj\x86\Debug\AvatarContent.contentproj.AssemblyReference.cache
+C:\Users\252486\Desktop\Sprint 2\Avatar\Avatar\AvatarContent\obj\x86\Debug\AvatarContent.contentproj.CoreCompileInputs.cache
