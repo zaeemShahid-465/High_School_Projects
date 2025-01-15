@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Tron30\Tron30\Tron30\Tron30\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2025-01-13T17:28:16.5899848-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bikeL.png</Source>
+      <Name>bikeL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Tron30\Tron30\Tron30\Tron30\bin\x86\Debug\Content\bikeL.xnb</Output>
+      <Time>2025-01-13T17:47:16.5071484-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bikeU.png</Source>
+      <Name>bikeU</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Tron30\Tron30\Tron30\Tron30\bin\x86\Debug\Content\bikeU.xnb</Output>
+      <Time>2025-01-13T17:45:54.0965027-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bikeR.png</Source>
+      <Name>bikeR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Tron30\Tron30\Tron30\Tron30\bin\x86\Debug\Content\bikeR.xnb</Output>
+      <Time>2025-01-13T17:46:18.4676291-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bikeD.png</Source>
+      <Name>bikeD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Tron30\Tron30\Tron30\Tron30\bin\x86\Debug\Content\bikeD.xnb</Output>
+      <Time>2025-01-13T17:47:09.1850025-06:00</Time>
+    </Item>
+    <Item>
+      <Source>temp.jpg</Source>
+      <Name>temp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shahi\Downloads\Tron30\Tron30\Tron30\Tron30\bin\x86\Debug\Content\temp.xnb</Output>
+      <Time>2025-01-13T22:42:22.4030834-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{4F050F2C-4187-4C9C-8953-0FF7A388A365}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\shahi\Downloads\Tron30\Tron30\Tron30\Tron30Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\shahi\Downloads\Tron30\Tron30\Tron30\Tron30\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\shahi\Downloads\Tron30\Tron30\Tron30\Tron30\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\shahi\Downloads\Tron30\Tron30\Tron30\Tron30\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2025-01-08T22:06:52.1952134-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
